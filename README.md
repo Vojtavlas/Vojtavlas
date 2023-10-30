@@ -1,3 +1,4 @@
+## My Skills
 [![My Skills](https://skillicons.dev/icons?i=ts&perline=3)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=js&perline=3)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=html&perline=3)](https://skillicons.dev)
@@ -7,3 +8,12 @@
 [![My Skills](https://skillicons.dev/icons?i=bash&perline=3)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=css&perline=3)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=cloudflare&perline=3)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=ts&perline=3)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=linux&perline=3)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=powershell&perline=3)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py&perline=3)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=svg&perline=3)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=unreal&perline=3)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?istackoverflow=&perline=3)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=vim&perline=3)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=vscode&perline=3)](https://skillicons.dev)
