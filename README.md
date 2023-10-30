@@ -14,6 +14,5 @@
 [![My Skills](https://skillicons.dev/icons?i=py&perline=3)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=svg&perline=3)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=unreal&perline=3)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?istackoverflow=&perline=3)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=vim&perline=3)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=vscode&perline=3)](https://skillicons.dev)
